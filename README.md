@@ -1,4 +1,4 @@
-# website
+# Frontiers Bergen Website
 ### Development
 #### Branch naming
 * lowercase and hyphen inplace of space. For example `feature/landingpage`
