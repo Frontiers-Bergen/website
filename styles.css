@@ -106,7 +106,7 @@ header {
     z-index: 100;
 
     .header__container {
-        background-color: var(--color-background-test);
+        background-color: var(--color-background);
         box-shadow: var(--shadow-sm);
     
         display: flex;
