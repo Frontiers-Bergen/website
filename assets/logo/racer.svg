@@ -1,0 +1,33 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="53.47 138.18 340.35 121.85">
+    <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+    <defs>
+      <style>
+  
+        .cliff, .foothill {
+          <!-- sides of hills -->
+          fill: #ff9200;
+  
+        }
+        .dip {
+          <!-- centre of hills -->
+          fill: #07d9b2;
+  
+        }
+  
+        .frontiers-bergen {
+          fill: #07d9b2;
+          stroke: #07d9b2;
+          stroke-miterlimit: 10;
+          stroke-width: .75px;
+        }
+  
+         
+      </style>
+    </defs>
+    <g>
+      <!-- racer -->
+      <path class="cliff" d="M250.59,260.03l-121.65-121.85h-57.77l100.87,100.85c13.45,13.44,31.68,20.99,50.69,20.99h27.86Z"/>
+      <path class="dip" d="M142.83,138.19l121.65,121.85h57.77l-100.87-100.85c-13.45-13.44-31.68-20.99-50.69-20.99h-27.86Z"/>
+      <path class="foothill" d="M393.82,260.03l-53.86-53.85c-13.45-13.44-31.68-20.99-50.69-20.99h-27.86l74.73,74.85h57.69Z"/>
+    </g>
+  </svg>
