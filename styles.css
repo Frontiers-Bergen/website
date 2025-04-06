@@ -1,4 +1,6 @@
 :root {
+    --color-background-test: #060C30;
+
     --font-family-main: Inter, sans-serif;
 
     --color-background: #ffffff;
@@ -104,7 +106,7 @@ header {
     z-index: 100;
 
     .header__container {
-        background-color: var(--color-background);
+        background-color: var(--color-background-test);
         box-shadow: var(--shadow-sm);
     
         display: flex;
@@ -112,9 +114,10 @@ header {
         align-items: center;
         padding: 1rem 4rem;
     
-        h1 {
-            margin: 0;
-        }
+        img {
+            width: auto;
+            height: 60px;
+        } 
     
         .header__nav--list {
             display: flex;
@@ -129,7 +132,7 @@ header {
                 a {
                     text-decoration: none;
                     font-size: 1.2rem;
-                    color: var(--color-text);
+                    color: var(--color-primary);
                     font-weight: 500;
                     letter-spacing: 0.02rem;
                 }
